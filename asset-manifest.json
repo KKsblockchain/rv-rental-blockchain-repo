@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rv-rental-blockchain-repo/static/css/main.073c9b0a.css",
-    "main.js": "/rv-rental-blockchain-repo/static/js/main.2d468380.js",
+    "main.js": "/rv-rental-blockchain-repo/static/js/main.bc35d81f.js",
     "static/js/787.11b7b239.chunk.js": "/rv-rental-blockchain-repo/static/js/787.11b7b239.chunk.js",
     "static/media/logo.svg": "/rv-rental-blockchain-repo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/rv-rental-blockchain-repo/index.html",
     "main.073c9b0a.css.map": "/rv-rental-blockchain-repo/static/css/main.073c9b0a.css.map",
-    "main.2d468380.js.map": "/rv-rental-blockchain-repo/static/js/main.2d468380.js.map",
+    "main.bc35d81f.js.map": "/rv-rental-blockchain-repo/static/js/main.bc35d81f.js.map",
     "787.11b7b239.chunk.js.map": "/rv-rental-blockchain-repo/static/js/787.11b7b239.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2d468380.js"
+    "static/js/main.bc35d81f.js"
   ]
 }
